@@ -1,0 +1,370 @@
+{
+  "overall_comparison": {
+    "senator_avg_return": 0.4331465832571549,
+    "sp500_1yr_return": -0.0684388241763871,
+    "outperformance": 0.501585407433542
+  },
+  "committee_analysis": {
+    "": {
+      "avg_return": 0.45880360320166524,
+      "sample_size": 7957,
+      "vs_sp500": 0.5272424273780524
+    },
+    "'Banking": {
+      "avg_return": 0.015655974466830997,
+      "sample_size": 489,
+      "vs_sp500": 0.08409479864321809
+    },
+    " Housing": {
+      "avg_return": 0.015655974466830997,
+      "sample_size": 489,
+      "vs_sp500": 0.08409479864321809
+    },
+    " and Urban Affairs'": {
+      "avg_return": 0.015655974466830997,
+      "sample_size": 489,
+      "vs_sp500": 0.08409479864321809
+    }
+  },
+  "senator_rankings": [
+    {
+      "senator": "David Perdue",
+      "return": 1.0515313485175748
+    },
+    {
+      "senator": "Kelly Loeffler",
+      "return": 0.9102160271396239
+    },
+    {
+      "senator": "Pat Roberts",
+      "return": 0.7730706387306451
+    },
+    {
+      "senator": "Sheldon Whitehouse",
+      "return": 0.6190715219506077
+    },
+    {
+      "senator": "Ron Wyden",
+      "return": 0.557085454830652
+    },
+    {
+      "senator": "John W. Hickenlooper",
+      "return": 0.39670724763687537
+    },
+    {
+      "senator": "Gary C. Peters",
+      "return": 0.19251670333822526
+    },
+    {
+      "senator": "James M. Inhofe",
+      "return": 0.17599092699863664
+    },
+    {
+      "senator": "Susan M. Collins",
+      "return": 0.12203832976090034
+    },
+    {
+      "senator": "Patrick J. Toomey",
+      "return": 0.08558847711495866
+    },
+    {
+      "senator": "John Hoeven",
+      "return": 0.08535153774878897
+    },
+    {
+      "senator": "Thomas R. Carper",
+      "return": 0.08342337900406326
+    },
+    {
+      "senator": "Bill Cassidy",
+      "return": 0.036895284406170396
+    },
+    {
+      "senator": "Jack Reed",
+      "return": 0.03328596310556677
+    },
+    {
+      "senator": "Shelley Moore Capito",
+      "return": 0.03282956854054171
+    },
+    {
+      "senator": "Richard Burr",
+      "return": 0.0
+    },
+    {
+      "senator": "Richard C Shelby",
+      "return": 0.0
+    },
+    {
+      "senator": "Rick Scott",
+      "return": 0.0
+    },
+    {
+      "senator": "Richard Blumenthal",
+      "return": 0.0
+    },
+    {
+      "senator": "Rand Paul",
+      "return": 0.0
+    },
+    {
+      "senator": "Patty Murray",
+      "return": 0.0
+    },
+    {
+      "senator": "Rob Portman",
+      "return": 0.0
+    },
+    {
+      "senator": "Robert P. Casey, Jr.",
+      "return": 0.0
+    },
+    {
+      "senator": "Angus S. King, Jr.",
+      "return": 0.0
+    },
+    {
+      "senator": "Roger F. Wicker",
+      "return": 0.0
+    },
+    {
+      "senator": "Roger Marshall",
+      "return": 0.0
+    },
+    {
+      "senator": "Ron Johnson",
+      "return": 0.0
+    },
+    {
+      "senator": "Mitch Mcconnell",
+      "return": 0.0
+    },
+    {
+      "senator": "Steve Daines",
+      "return": 0.0
+    },
+    {
+      "senator": "Tammy Duckworth",
+      "return": 0.0
+    },
+    {
+      "senator": "Thad Cochran",
+      "return": 0.0
+    },
+    {
+      "senator": "Thom Tillis",
+      "return": 0.0
+    },
+    {
+      "senator": "Tim Kaine",
+      "return": 0.0
+    },
+    {
+      "senator": "Tina Smith",
+      "return": 0.0
+    },
+    {
+      "senator": "Tom Udall",
+      "return": 0.0
+    },
+    {
+      "senator": "Roy Blunt",
+      "return": 0.0
+    },
+    {
+      "senator": "Michael B. Enzi",
+      "return": 0.0
+    },
+    {
+      "senator": "Mike Rounds",
+      "return": 0.0
+    },
+    {
+      "senator": "Joe Manchin, Iii",
+      "return": 0.0
+    },
+    {
+      "senator": "Cory A Booker",
+      "return": 0.0
+    },
+    {
+      "senator": "Cynthia M. Lummis",
+      "return": 0.0
+    },
+    {
+      "senator": "Dan Sullivan",
+      "return": 0.0
+    },
+    {
+      "senator": "Bill Hagerty",
+      "return": 0.0
+    },
+    {
+      "senator": "Deb Fischer",
+      "return": 0.0
+    },
+    {
+      "senator": "Dianne Feinstein",
+      "return": 0.0
+    },
+    {
+      "senator": "Elizabeth Warren",
+      "return": 0.0
+    },
+    {
+      "senator": "Jacky Rosen",
+      "return": 0.0
+    },
+    {
+      "senator": "Jeanne Shaheen",
+      "return": 0.0
+    },
+    {
+      "senator": "Michael F. Bennet",
+      "return": 0.0
+    },
+    {
+      "senator": "John Barrasso",
+      "return": 0.0
+    },
+    {
+      "senator": "Chris Van Hollen",
+      "return": 0.0
+    },
+    {
+      "senator": "John Boozman",
+      "return": 0.0
+    },
+    {
+      "senator": "John Cornyn",
+      "return": 0.0
+    },
+    {
+      "senator": "John Kennedy",
+      "return": 0.0
+    },
+    {
+      "senator": "John Thune",
+      "return": 0.0
+    },
+    {
+      "senator": "Lamar Alexander",
+      "return": 0.0
+    },
+    {
+      "senator": "Lindsey Graham",
+      "return": 0.0
+    },
+    {
+      "senator": "Maria Cantwell",
+      "return": 0.0
+    },
+    {
+      "senator": "Mark R. Warner",
+      "return": 0.0
+    },
+    {
+      "senator": "Benjamin L Cardin",
+      "return": 0.0
+    },
+    {
+      "senator": "Michael D Crapo",
+      "return": 0.0
+    },
+    {
+      "senator": "Christopher A. Coons",
+      "return": 0.0
+    },
+    {
+      "senator": "Jerry Moran",
+      "return": -0.05832597793723153
+    },
+    {
+      "senator": "Ted Cruz",
+      "return": -0.1374349812026894
+    },
+    {
+      "senator": "Tommy Tuberville",
+      "return": -0.15108909895209718
+    }
+  ],
+  "industry_analysis": {
+    "Technology": {
+      "industry_return": -0.226862606614418,
+      "senators_return": -0.24954886727585984,
+      "outperformance": -0.022686260661441804,
+      "sample_size": 5
+    },
+    "Healthcare": {
+      "industry_return": 0.0840049413775017,
+      "senators_return": 0.09240543551525188,
+      "outperformance": 0.00840049413775017,
+      "sample_size": 5
+    },
+    "Financial": {
+      "industry_return": -0.298806673263368,
+      "senators_return": -0.32868734058970484,
+      "outperformance": -0.029880667326336804,
+      "sample_size": 5
+    },
+    "Energy": {
+      "industry_return": -0.235256018093663,
+      "senators_return": -0.25878161990302934,
+      "outperformance": -0.023525601809366303,
+      "sample_size": 5
+    },
+    "Consumer Discretionary": {
+      "industry_return": -0.3084204851333439,
+      "senators_return": -0.33926253364667835,
+      "outperformance": -0.030842048513334393,
+      "sample_size": 5
+    },
+    "Utilities": {
+      "industry_return": -0.0338594056813347,
+      "senators_return": -0.037245346249468174,
+      "outperformance": -0.00338594056813347,
+      "sample_size": 5
+    },
+    "Materials": {
+      "industry_return": -0.4557231304231303,
+      "senators_return": -0.5012954434654433,
+      "outperformance": -0.04557231304231303,
+      "sample_size": 5
+    },
+    "Industrial": {
+      "industry_return": -0.2049997483954743,
+      "senators_return": -0.22549972323502174,
+      "outperformance": -0.020499974839547432,
+      "sample_size": 5
+    },
+    "Consumer Staples": {
+      "industry_return": 0.0148293741021594,
+      "senators_return": 0.016312311512375343,
+      "outperformance": 0.0014829374102159401,
+      "sample_size": 5
+    },
+    "Real Estate": {
+      "industry_return": -0.4507010618425625,
+      "senators_return": -0.49577116802681875,
+      "outperformance": -0.04507010618425625,
+      "sample_size": 5
+    },
+    "Communication Services": {
+      "industry_return": -0.1021093393059857,
+      "senators_return": -0.11232027323658428,
+      "outperformance": -0.01021093393059857,
+      "sample_size": 5
+    }
+  },
+  "statistical_tests": {
+    "t_statistic": 31.431682919482178,
+    "p_value": 3.514339293322406e-205,
+    "significant_05": true
+  },
+  "visualization_paths": [
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/overall_comparison.png",
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/committee_performance.png",
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/senator_rankings.png",
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/industry_comparison.png"
+  ]
+}

@@ -1,0 +1,10 @@
+index,industry,period,return
+S&P 500,Market,1week,0.016
+S&P 500,Market,1month,-0.008
+S&P 500,Market,3month,-0.112
+S&P 500,Market,6month,-0.019
+S&P 500,Market,1year,0.047
+S&P 500,Market,3year,0.118
+S&P 500,Market,5year,0.880
+S&P 500,Market,annualized_return,0.125
+S&P 500,Market,annualized_volatility,0.180 

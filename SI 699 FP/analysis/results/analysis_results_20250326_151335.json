@@ -1,0 +1,203 @@
+{
+  "overall_comparison": {
+    "senator_avg_return": 0.05968116789297228,
+    "sp500_1yr_return": 0.0473561521373544,
+    "outperformance": 0.012325015755617882
+  },
+  "committee_analysis": {
+    "'Banking": {
+      "avg_return": 0.022093096335114706,
+      "sample_size": 51,
+      "vs_sp500": -0.02526305580223969
+    },
+    " 'Intelligence'": {
+      "avg_return": 0.01909205371844975,
+      "sample_size": 14,
+      "vs_sp500": -0.02826409841890465
+    },
+    " 'Armed Services'": {
+      "avg_return": -0.020613200977185293,
+      "sample_size": 15,
+      "vs_sp500": -0.0679693531145397
+    },
+    " Housing": {
+      "avg_return": 0.022093096335114706,
+      "sample_size": 51,
+      "vs_sp500": -0.02526305580223969
+    },
+    "'Armed Services'": {
+      "avg_return": 0.062434284254879846,
+      "sample_size": 41,
+      "vs_sp500": 0.015078132117525449
+    },
+    "'Finance'": {
+      "avg_return": 0.0625537532654736,
+      "sample_size": 54,
+      "vs_sp500": 0.015197601128119208
+    },
+    "'Intelligence'": {
+      "avg_return": 0.09021809879107329,
+      "sample_size": 54,
+      "vs_sp500": 0.04286194665371889
+    },
+    " 'Finance'": {
+      "avg_return": 0.05893583781612025,
+      "sample_size": 10,
+      "vs_sp500": 0.011579685678765855
+    },
+    " and Urban Affairs'": {
+      "avg_return": 0.022093096335114706,
+      "sample_size": 51,
+      "vs_sp500": -0.02526305580223969
+    }
+  },
+  "senator_rankings": [
+    {
+      "senator": "Roger Wicker",
+      "return": 0.1392581205734353
+    },
+    {
+      "senator": "Marco Rubio",
+      "return": 0.13774533472465522
+    },
+    {
+      "senator": "Dianne Feinstein",
+      "return": 0.11132450227812088
+    },
+    {
+      "senator": "Maria Cantwell",
+      "return": 0.10680930437887545
+    },
+    {
+      "senator": "Kirsten Gillibrand",
+      "return": 0.09929601971661448
+    },
+    {
+      "senator": "Debbie Stabenow",
+      "return": 0.07807154886495961
+    },
+    {
+      "senator": "Mark Warner",
+      "return": 0.06318947389800612
+    },
+    {
+      "senator": "Mike Crapo",
+      "return": 0.05893583781612025
+    },
+    {
+      "senator": "Tim Scott",
+      "return": 0.05131482645234435
+    },
+    {
+      "senator": "Richard Burr",
+      "return": 0.04906863975628163
+    },
+    {
+      "senator": "James Inhofe",
+      "return": 0.04462584050512646
+    },
+    {
+      "senator": "Sherrod Brown",
+      "return": 0.04073942956443779
+    },
+    {
+      "senator": "Ron Wyden",
+      "return": 0.019092053718449745
+    },
+    {
+      "senator": "Chuck Grassley",
+      "return": 0.01906503404698961
+    },
+    {
+      "senator": "Robert Menendez",
+      "return": 0.0035843302905368066
+    },
+    {
+      "senator": "Jeanne Shaheen",
+      "return": -0.016303027985907822
+    },
+    {
+      "senator": "Jack Reed",
+      "return": -0.020613200977185296
+    }
+  ],
+  "industry_analysis": {
+    "Technology": {
+      "industry_return": 0.0546354359155498,
+      "senators_return": 0.060098979507104786,
+      "outperformance": 0.00546354359155498,
+      "sample_size": 5
+    },
+    "Healthcare": {
+      "industry_return": 0.0478172342569809,
+      "senators_return": 0.052598957682679,
+      "outperformance": 0.00478172342569809,
+      "sample_size": 5
+    },
+    "Financial": {
+      "industry_return": 0.0519697598269016,
+      "senators_return": 0.057166735809591765,
+      "outperformance": 0.0051969759826901605,
+      "sample_size": 5
+    },
+    "Energy": {
+      "industry_return": 0.0509398107608581,
+      "senators_return": 0.056033791836943916,
+      "outperformance": 0.00509398107608581,
+      "sample_size": 5
+    },
+    "Consumer Discretionary": {
+      "industry_return": 0.0641167707978506,
+      "senators_return": 0.07052844787763567,
+      "outperformance": 0.00641167707978506,
+      "sample_size": 5
+    },
+    "Utilities": {
+      "industry_return": 0.0238548789341047,
+      "senators_return": 0.026240366827515172,
+      "outperformance": 0.00238548789341047,
+      "sample_size": 5
+    },
+    "Materials": {
+      "industry_return": 0.0575252055419493,
+      "senators_return": 0.06327772609614424,
+      "outperformance": 0.00575252055419493,
+      "sample_size": 5
+    },
+    "Industrial": {
+      "industry_return": 0.0496445264926049,
+      "senators_return": 0.054608979141865396,
+      "outperformance": 0.00496445264926049,
+      "sample_size": 5
+    },
+    "Consumer Staples": {
+      "industry_return": 0.0336101069475927,
+      "senators_return": 0.036971117642351975,
+      "outperformance": 0.0033610106947592703,
+      "sample_size": 5
+    },
+    "Real Estate": {
+      "industry_return": 0.040706270741403,
+      "senators_return": 0.0447768978155433,
+      "outperformance": 0.0040706270741403,
+      "sample_size": 5
+    },
+    "Communication Services": {
+      "industry_return": 0.0829068109605292,
+      "senators_return": 0.09119749205658212,
+      "outperformance": 0.00829068109605292,
+      "sample_size": 5
+    }
+  },
+  "statistical_tests": {
+    "t_statistic": 0.8812510311988943,
+    "p_value": 0.3792450843347259,
+    "significant_05": false
+  },
+  "visualization_paths": [
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/overall_comparison.png",
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/committee_performance.png",
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/senator_rankings.png",
+    "/Users/jason/Desktop/SI 699 FP/analysis/results/industry_comparison.png"
+  ]
+}

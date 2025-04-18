@@ -1,0 +1,109 @@
+index,industry,period,return
+S&P 500,Market,1week,0.0036417910971200396
+S&P 500,Market,1month,0.05390207497415411
+S&P 500,Market,3month,0.12432803374770351
+S&P 500,Market,6month,0.21390164605528716
+S&P 500,Market,1year,0.38870250982704446
+S&P 500,Market,3year,0.8716856879220685
+S&P 500,Market,5year,1.2826694471183324
+S&P 500,Market,annualized_return,0.18260085243960558
+S&P 500,Market,annualized_volatility,0.1285789388474107
+Technology ETF,Technology,1week,-0.0822057795008202
+Technology ETF,Technology,1month,-0.03256402671966663
+Technology ETF,Technology,3month,-0.009989771980523865
+Technology ETF,Technology,6month,0.035789199850512654
+Technology ETF,Technology,1year,0.20874394787140904
+Technology ETF,Technology,3year,-0.036232891848348214
+Technology ETF,Technology,5year,0.22890043691190187
+Technology ETF,Technology,annualized_return,0.07973390362522459
+Technology ETF,Technology,annualized_volatility,0.28232453396607554
+Healthcare ETF,Healthcare,1week,-0.011018736461936851
+Healthcare ETF,Healthcare,1month,-0.036218906977585674
+Healthcare ETF,Healthcare,3month,-0.07174339504793847
+Healthcare ETF,Healthcare,6month,0.1163758989523338
+Healthcare ETF,Healthcare,1year,0.050544779613972635
+Healthcare ETF,Healthcare,3year,-0.17079878349702593
+Healthcare ETF,Healthcare,5year,-0.01873645041803751
+Healthcare ETF,Healthcare,annualized_return,0.013776550352631962
+Healthcare ETF,Healthcare,annualized_volatility,0.18799005481780517
+Financial ETF,Financial,1week,-0.023825976908360413
+Financial ETF,Financial,1month,-0.049095682205645086
+Financial ETF,Financial,3month,0.11995926042670635
+Financial ETF,Financial,6month,0.04655530306076794
+Financial ETF,Financial,1year,0.18957274079990394
+Financial ETF,Financial,3year,-0.07832990378559113
+Financial ETF,Financial,5year,-0.07366425480015437
+Financial ETF,Financial,annualized_return,0.011665712881792849
+Financial ETF,Financial,annualized_volatility,0.24392380188196383
+Energy ETF,Energy,1week,-0.02855769238175121
+Energy ETF,Energy,1month,-0.03447573213357391
+Energy ETF,Energy,3month,0.040850146025864786
+Energy ETF,Energy,6month,-0.11955194236374511
+Energy ETF,Energy,1year,0.20331567779353032
+Energy ETF,Energy,3year,-0.6168885452784589
+Energy ETF,Energy,5year,-0.5120369622648713
+Energy ETF,Energy,annualized_return,-0.10733295052823108
+Energy ETF,Energy,annualized_volatility,0.36032661669756244
+Consumer Discretionary ETF,Consumer Discretionary,1week,-0.031168803064279493
+Consumer Discretionary ETF,Consumer Discretionary,1month,-0.018535085906018045
+Consumer Discretionary ETF,Consumer Discretionary,3month,-0.05619981349013636
+Consumer Discretionary ETF,Consumer Discretionary,6month,-0.176270472052106
+Consumer Discretionary ETF,Consumer Discretionary,1year,-0.1165774352504424
+Consumer Discretionary ETF,Consumer Discretionary,3year,0.8878958716229153
+Consumer Discretionary ETF,Consumer Discretionary,5year,0.22023584807813412
+Consumer Discretionary ETF,Consumer Discretionary,annualized_return,0.07952114507591498
+Consumer Discretionary ETF,Consumer Discretionary,annualized_volatility,0.2487769562327324
+Utilities ETF,Utilities,1week,0.038945701190299165
+Utilities ETF,Utilities,1month,0.024906086700928753
+Utilities ETF,Utilities,3month,0.06179726991330203
+Utilities ETF,Utilities,6month,-0.009958076301770147
+Utilities ETF,Utilities,1year,-0.0843076428081273
+Utilities ETF,Utilities,3year,-0.007390226807278744
+Utilities ETF,Utilities,5year,0.15404873272444042
+Utilities ETF,Utilities,annualized_return,0.04004763710663108
+Utilities ETF,Utilities,annualized_volatility,0.14347739262226047
+Materials ETF,Materials,1week,-0.05094601547736788
+Materials ETF,Materials,1month,-0.08929678030984034
+Materials ETF,Materials,3month,-0.07370322597651124
+Materials ETF,Materials,6month,-0.0034694749894189636
+Materials ETF,Materials,1year,-0.07721228763776211
+Materials ETF,Materials,3year,-0.34977363588572763
+Materials ETF,Materials,5year,-0.24654328649858148
+Materials ETF,Materials,annualized_return,-0.024040266151944312
+Materials ETF,Materials,annualized_volatility,0.2725822242276029
+Industrial ETF,Industrial,1week,-0.012235118471366824
+Industrial ETF,Industrial,1month,-0.013843873859263445
+Industrial ETF,Industrial,3month,-0.07241888694480292
+Industrial ETF,Industrial,6month,-0.10376705982441681
+Industrial ETF,Industrial,1year,-0.21834352071095642
+Industrial ETF,Industrial,3year,0.0973468163526745
+Industrial ETF,Industrial,5year,0.7237492480366066
+Industrial ETF,Industrial,annualized_return,0.11089112353384821
+Industrial ETF,Industrial,annualized_volatility,0.23866284477538105
+Consumer Staples ETF,Consumer Staples,1week,-0.012855765928849183
+Consumer Staples ETF,Consumer Staples,1month,0.019173563216514422
+Consumer Staples ETF,Consumer Staples,3month,0.11076933432118352
+Consumer Staples ETF,Consumer Staples,6month,0.09490647322669421
+Consumer Staples ETF,Consumer Staples,1year,0.04003950968130421
+Consumer Staples ETF,Consumer Staples,3year,0.060583525612908584
+Consumer Staples ETF,Consumer Staples,5year,0.24550979946427476
+Consumer Staples ETF,Consumer Staples,annualized_return,0.057447923417773133
+Consumer Staples ETF,Consumer Staples,annualized_volatility,0.1572219206714008
+Real Estate ETF,Real Estate,1week,-0.010070239899273026
+Real Estate ETF,Real Estate,1month,0.011058129518658477
+Real Estate ETF,Real Estate,3month,0.1239506996541524
+Real Estate ETF,Real Estate,6month,0.20740436223895475
+Real Estate ETF,Real Estate,1year,0.3366210506288707
+Real Estate ETF,Real Estate,3year,0.2519264202213751
+Real Estate ETF,Real Estate,5year,0.08036563731410817
+Real Estate ETF,Real Estate,annualized_return,0.03082826941087432
+Real Estate ETF,Real Estate,annualized_volatility,0.23423219749795687
+Communication Services ETF,Communication Services,1week,0.0031692857562002352
+Communication Services ETF,Communication Services,1month,0.027821221883405967
+Communication Services ETF,Communication Services,3month,0.13554786362261773
+Communication Services ETF,Communication Services,6month,0.005410564309992427
+Communication Services ETF,Communication Services,1year,0.36236896274977215
+Communication Services ETF,Communication Services,3year,-0.17293036389298155
+Communication Services ETF,Communication Services,5year,0.6551308173267965
+Communication Services ETF,Communication Services,annualized_return,0.10617505906000581
+Communication Services ETF,Communication Services,annualized_volatility,0.2152288510086754

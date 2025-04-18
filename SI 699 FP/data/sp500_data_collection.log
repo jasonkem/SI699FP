@@ -1,0 +1,375 @@
+2025-03-26 14:57:15,396 - __main__ - INFO - Starting market data collection...
+2025-03-26 14:57:15,397 - __main__ - INFO - Fetching S&P 500 data from 2020-03-26 to 2025-03-26
+2025-03-26 14:57:15,842 - yfinance - ERROR - Failed to get ticker '^GSPC' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:15,851 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:15,851 - yfinance - ERROR - ['^GSPC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:15,851 - __main__ - INFO - Retrieved 0 days of S&P 500 data
+2025-03-26 14:57:15,853 - __main__ - INFO - Raw S&P 500 data saved to /Users/jason/Desktop/SI 699 FP/data/raw/sp500_2020-03-26_2025-03-26.csv
+2025-03-26 14:57:15,854 - __main__ - INFO - Fetching industry ETF data from 2020-03-26 to 2025-03-26
+2025-03-26 14:57:15,854 - __main__ - INFO - Fetching data for Technology ETF (XLK)
+2025-03-26 14:57:16,062 - yfinance - ERROR - Failed to get ticker 'XLK' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:16,074 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:16,074 - yfinance - ERROR - ['XLK']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:16,074 - __main__ - WARNING - No data returned for Technology ETF (XLK)
+2025-03-26 14:57:16,074 - __main__ - INFO - Fetching data for Healthcare ETF (XLV)
+2025-03-26 14:57:16,205 - yfinance - ERROR - Failed to get ticker 'XLV' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:16,216 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:16,216 - yfinance - ERROR - ['XLV']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:16,217 - __main__ - WARNING - No data returned for Healthcare ETF (XLV)
+2025-03-26 14:57:16,217 - __main__ - INFO - Fetching data for Financial ETF (XLF)
+2025-03-26 14:57:16,449 - yfinance - ERROR - Failed to get ticker 'XLF' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:16,457 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:16,457 - yfinance - ERROR - ['XLF']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:16,457 - __main__ - WARNING - No data returned for Financial ETF (XLF)
+2025-03-26 14:57:16,458 - __main__ - INFO - Fetching data for Energy ETF (XLE)
+2025-03-26 14:57:16,628 - yfinance - ERROR - Failed to get ticker 'XLE' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:16,632 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:16,632 - yfinance - ERROR - ['XLE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:16,632 - __main__ - WARNING - No data returned for Energy ETF (XLE)
+2025-03-26 14:57:16,633 - __main__ - INFO - Fetching data for Consumer Discretionary ETF (XLY)
+2025-03-26 14:57:16,775 - yfinance - ERROR - Failed to get ticker 'XLY' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:16,782 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:16,782 - yfinance - ERROR - ['XLY']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:16,782 - __main__ - WARNING - No data returned for Consumer Discretionary ETF (XLY)
+2025-03-26 14:57:16,782 - __main__ - INFO - Fetching data for Utilities ETF (XLU)
+2025-03-26 14:57:16,980 - yfinance - ERROR - Failed to get ticker 'XLU' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:16,986 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:16,987 - yfinance - ERROR - ['XLU']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:16,987 - __main__ - WARNING - No data returned for Utilities ETF (XLU)
+2025-03-26 14:57:16,987 - __main__ - INFO - Fetching data for Materials ETF (XLB)
+2025-03-26 14:57:17,132 - yfinance - ERROR - Failed to get ticker 'XLB' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:17,133 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:17,133 - yfinance - ERROR - ['XLB']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:17,133 - __main__ - WARNING - No data returned for Materials ETF (XLB)
+2025-03-26 14:57:17,134 - __main__ - INFO - Fetching data for Industrial ETF (XLI)
+2025-03-26 14:57:17,242 - yfinance - ERROR - Failed to get ticker 'XLI' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:17,248 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:17,248 - yfinance - ERROR - ['XLI']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:17,248 - __main__ - WARNING - No data returned for Industrial ETF (XLI)
+2025-03-26 14:57:17,248 - __main__ - INFO - Fetching data for Consumer Staples ETF (XLP)
+2025-03-26 14:57:17,600 - yfinance - ERROR - Failed to get ticker 'XLP' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:17,601 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:17,601 - yfinance - ERROR - ['XLP']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:17,601 - __main__ - WARNING - No data returned for Consumer Staples ETF (XLP)
+2025-03-26 14:57:17,601 - __main__ - INFO - Fetching data for Real Estate ETF (XLRE)
+2025-03-26 14:57:17,732 - yfinance - ERROR - Failed to get ticker 'XLRE' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:17,738 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:17,739 - yfinance - ERROR - ['XLRE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:17,739 - __main__ - WARNING - No data returned for Real Estate ETF (XLRE)
+2025-03-26 14:57:17,739 - __main__ - INFO - Fetching data for Communication Services ETF (XLC)
+2025-03-26 14:57:17,927 - yfinance - ERROR - Failed to get ticker 'XLC' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 14:57:17,931 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 14:57:17,931 - yfinance - ERROR - ['XLC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 14:57:17,931 - __main__ - WARNING - No data returned for Communication Services ETF (XLC)
+2025-03-26 14:57:17,931 - __main__ - INFO - Processing market data...
+2025-03-26 14:57:17,933 - __main__ - INFO - Processed market data saved to /Users/jason/Desktop/SI 699 FP/data/processed/market_returns_2025-03-26.csv
+2025-03-26 14:57:17,934 - __main__ - INFO - Market data collection and processing complete.
+2025-03-26 15:14:03,540 - __main__ - INFO - Starting market data collection...
+2025-03-26 15:14:03,541 - __main__ - INFO - Fetching S&P 500 data from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:03,541 - __main__ - INFO - Fetching S&P 500 data from Yahoo Finance from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:03,784 - yfinance - ERROR - Failed to get ticker 'SPY' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:03,791 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:03,792 - yfinance - ERROR - ['SPY']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:03,792 - __main__ - WARNING - Failed to get SPY data, trying ^GSPC directly
+2025-03-26 15:14:04,295 - yfinance - ERROR - Failed to get ticker '^GSPC' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:04,305 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:04,306 - yfinance - ERROR - ['^GSPC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:04,306 - __main__ - ERROR - Failed to retrieve S&P 500 data from Yahoo Finance
+2025-03-26 15:14:04,306 - __main__ - INFO - Fetching S&P 500 data from Alpha Vantage API from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:04,307 - __main__ - WARNING - No Alpha Vantage API key found in environment variables.
+2025-03-26 15:14:04,307 - __main__ - INFO - Fetching market data from Finnhub API from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:04,307 - __main__ - WARNING - No Finnhub API key found in environment variables.
+2025-03-26 15:14:04,307 - __main__ - WARNING - All data sources failed, using backup data for S&P 500
+2025-03-26 15:14:04,307 - __main__ - INFO - Generating backup S&P 500 data from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:05,047 - __main__ - INFO - Generated 1305 days of backup S&P 500 data
+2025-03-26 15:14:05,058 - __main__ - INFO - Backup S&P 500 data saved to /Users/jason/Desktop/SI 699 FP/data/raw/sp500_2020-03-26_2025-03-26_backup.csv
+2025-03-26 15:14:05,058 - __main__ - INFO - Fetching industry ETF data from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:05,058 - __main__ - INFO - Fetching market data from Finnhub API from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:05,058 - __main__ - WARNING - No Finnhub API key found in environment variables.
+2025-03-26 15:14:05,058 - __main__ - INFO - Fetching data for Technology ETF (XLK) from Yahoo Finance
+2025-03-26 15:14:05,176 - yfinance - ERROR - Failed to get ticker 'XLK' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:05,178 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:05,178 - yfinance - ERROR - ['XLK']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:05,178 - __main__ - WARNING - No data returned for Technology ETF (XLK) from Yahoo Finance
+2025-03-26 15:14:05,178 - __main__ - INFO - Fetching data for Healthcare ETF (XLV) from Yahoo Finance
+2025-03-26 15:14:05,318 - yfinance - ERROR - Failed to get ticker 'XLV' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:05,325 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:05,325 - yfinance - ERROR - ['XLV']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:05,325 - __main__ - WARNING - No data returned for Healthcare ETF (XLV) from Yahoo Finance
+2025-03-26 15:14:05,326 - __main__ - INFO - Fetching data for Financial ETF (XLF) from Yahoo Finance
+2025-03-26 15:14:05,441 - yfinance - ERROR - Failed to get ticker 'XLF' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:05,441 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:05,442 - yfinance - ERROR - ['XLF']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:05,442 - __main__ - WARNING - No data returned for Financial ETF (XLF) from Yahoo Finance
+2025-03-26 15:14:05,442 - __main__ - INFO - Fetching data for Energy ETF (XLE) from Yahoo Finance
+2025-03-26 15:14:05,607 - yfinance - ERROR - Failed to get ticker 'XLE' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:05,620 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:05,620 - yfinance - ERROR - ['XLE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:05,621 - __main__ - WARNING - No data returned for Energy ETF (XLE) from Yahoo Finance
+2025-03-26 15:14:05,621 - __main__ - INFO - Fetching data for Consumer Discretionary ETF (XLY) from Yahoo Finance
+2025-03-26 15:14:05,737 - yfinance - ERROR - Failed to get ticker 'XLY' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:05,744 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:05,745 - yfinance - ERROR - ['XLY']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:05,745 - __main__ - WARNING - No data returned for Consumer Discretionary ETF (XLY) from Yahoo Finance
+2025-03-26 15:14:05,745 - __main__ - INFO - Fetching data for Utilities ETF (XLU) from Yahoo Finance
+2025-03-26 15:14:05,918 - yfinance - ERROR - Failed to get ticker 'XLU' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:05,924 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:05,924 - yfinance - ERROR - ['XLU']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:05,924 - __main__ - WARNING - No data returned for Utilities ETF (XLU) from Yahoo Finance
+2025-03-26 15:14:05,925 - __main__ - INFO - Fetching data for Materials ETF (XLB) from Yahoo Finance
+2025-03-26 15:14:06,044 - yfinance - ERROR - Failed to get ticker 'XLB' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:06,052 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:06,052 - yfinance - ERROR - ['XLB']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:06,052 - __main__ - WARNING - No data returned for Materials ETF (XLB) from Yahoo Finance
+2025-03-26 15:14:06,053 - __main__ - INFO - Fetching data for Industrial ETF (XLI) from Yahoo Finance
+2025-03-26 15:14:06,181 - yfinance - ERROR - Failed to get ticker 'XLI' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:06,186 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:06,186 - yfinance - ERROR - ['XLI']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:06,187 - __main__ - WARNING - No data returned for Industrial ETF (XLI) from Yahoo Finance
+2025-03-26 15:14:06,187 - __main__ - INFO - Fetching data for Consumer Staples ETF (XLP) from Yahoo Finance
+2025-03-26 15:14:06,330 - yfinance - ERROR - Failed to get ticker 'XLP' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:06,331 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:06,331 - yfinance - ERROR - ['XLP']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:06,331 - __main__ - WARNING - No data returned for Consumer Staples ETF (XLP) from Yahoo Finance
+2025-03-26 15:14:06,332 - __main__ - INFO - Fetching data for Real Estate ETF (XLRE) from Yahoo Finance
+2025-03-26 15:14:06,447 - yfinance - ERROR - Failed to get ticker 'XLRE' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:06,448 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:06,448 - yfinance - ERROR - ['XLRE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:06,448 - __main__ - WARNING - No data returned for Real Estate ETF (XLRE) from Yahoo Finance
+2025-03-26 15:14:06,448 - __main__ - INFO - Fetching data for Communication Services ETF (XLC) from Yahoo Finance
+2025-03-26 15:14:06,605 - yfinance - ERROR - Failed to get ticker 'XLC' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:14:06,609 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:14:06,610 - yfinance - ERROR - ['XLC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:14:06,610 - __main__ - WARNING - No data returned for Communication Services ETF (XLC) from Yahoo Finance
+2025-03-26 15:14:06,610 - __main__ - WARNING - All data sources failed, using backup data for industry ETFs
+2025-03-26 15:14:06,611 - __main__ - INFO - Generating backup industry ETF data from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:06,611 - __main__ - INFO - Generating backup S&P 500 data from 2020-03-26 to 2025-03-26
+2025-03-26 15:14:07,298 - __main__ - INFO - Generated 1305 days of backup S&P 500 data
+2025-03-26 15:14:07,309 - __main__ - INFO - Backup S&P 500 data saved to /Users/jason/Desktop/SI 699 FP/data/raw/sp500_2020-03-26_2025-03-26_backup.csv
+2025-03-26 15:14:14,714 - __main__ - INFO - Generated data for 11 industry ETFs
+2025-03-26 15:14:14,715 - __main__ - INFO - Processing market data...
+2025-03-26 15:14:14,732 - __main__ - INFO - Processed market data saved to /Users/jason/Desktop/SI 699 FP/data/processed/market_returns_2025-03-26.csv
+2025-03-26 15:14:14,733 - __main__ - INFO - Market data collection and processing complete.
+2025-03-26 15:24:06,402 - __main__ - INFO - Starting market data collection...
+2025-03-26 15:24:06,402 - __main__ - INFO - Fetching S&P 500 data from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:06,402 - __main__ - INFO - Fetching S&P 500 data from Yahoo Finance from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:06,701 - yfinance - ERROR - Failed to get ticker 'SPY' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:06,707 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:06,707 - yfinance - ERROR - ['SPY']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:06,708 - __main__ - WARNING - Failed to get SPY data, trying ^GSPC directly
+2025-03-26 15:24:06,832 - yfinance - ERROR - Failed to get ticker '^GSPC' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:06,838 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:06,838 - yfinance - ERROR - ['^GSPC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:06,838 - __main__ - ERROR - Failed to retrieve S&P 500 data from Yahoo Finance
+2025-03-26 15:24:06,839 - __main__ - INFO - Fetching S&P 500 data from Alpha Vantage API from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:06,839 - __main__ - WARNING - No Alpha Vantage API key found in environment variables.
+2025-03-26 15:24:06,839 - __main__ - INFO - Fetching market data from Finnhub API from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:06,839 - __main__ - WARNING - No Finnhub API key found in environment variables.
+2025-03-26 15:24:06,840 - __main__ - WARNING - All data sources failed, using backup data for S&P 500
+2025-03-26 15:24:06,840 - __main__ - INFO - Generating backup S&P 500 data from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:07,597 - __main__ - INFO - Generated 1305 days of backup S&P 500 data
+2025-03-26 15:24:07,618 - __main__ - INFO - Backup S&P 500 data saved to /Users/jason/Desktop/SI 699 FP/data/raw/sp500_2020-03-26_2025-03-26_backup.csv
+2025-03-26 15:24:07,619 - __main__ - INFO - Fetching industry ETF data from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:07,619 - __main__ - INFO - Fetching market data from Finnhub API from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:07,619 - __main__ - WARNING - No Finnhub API key found in environment variables.
+2025-03-26 15:24:07,619 - __main__ - INFO - Fetching data for Technology ETF (XLK) from Yahoo Finance
+2025-03-26 15:24:07,745 - yfinance - ERROR - Failed to get ticker 'XLK' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:07,752 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:07,752 - yfinance - ERROR - ['XLK']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:07,753 - __main__ - WARNING - No data returned for Technology ETF (XLK) from Yahoo Finance
+2025-03-26 15:24:07,753 - __main__ - INFO - Fetching data for Healthcare ETF (XLV) from Yahoo Finance
+2025-03-26 15:24:07,945 - yfinance - ERROR - Failed to get ticker 'XLV' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:07,948 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:07,948 - yfinance - ERROR - ['XLV']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:07,949 - __main__ - WARNING - No data returned for Healthcare ETF (XLV) from Yahoo Finance
+2025-03-26 15:24:07,949 - __main__ - INFO - Fetching data for Financial ETF (XLF) from Yahoo Finance
+2025-03-26 15:24:08,085 - yfinance - ERROR - Failed to get ticker 'XLF' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:08,086 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:08,086 - yfinance - ERROR - ['XLF']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:08,086 - __main__ - WARNING - No data returned for Financial ETF (XLF) from Yahoo Finance
+2025-03-26 15:24:08,087 - __main__ - INFO - Fetching data for Energy ETF (XLE) from Yahoo Finance
+2025-03-26 15:24:08,209 - yfinance - ERROR - Failed to get ticker 'XLE' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:08,210 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:08,211 - yfinance - ERROR - ['XLE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:08,211 - __main__ - WARNING - No data returned for Energy ETF (XLE) from Yahoo Finance
+2025-03-26 15:24:08,211 - __main__ - INFO - Fetching data for Consumer Discretionary ETF (XLY) from Yahoo Finance
+2025-03-26 15:24:08,346 - yfinance - ERROR - Failed to get ticker 'XLY' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:08,353 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:08,353 - yfinance - ERROR - ['XLY']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:08,353 - __main__ - WARNING - No data returned for Consumer Discretionary ETF (XLY) from Yahoo Finance
+2025-03-26 15:24:08,353 - __main__ - INFO - Fetching data for Utilities ETF (XLU) from Yahoo Finance
+2025-03-26 15:24:08,500 - yfinance - ERROR - Failed to get ticker 'XLU' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:08,504 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:08,505 - yfinance - ERROR - ['XLU']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:08,505 - __main__ - WARNING - No data returned for Utilities ETF (XLU) from Yahoo Finance
+2025-03-26 15:24:08,505 - __main__ - INFO - Fetching data for Materials ETF (XLB) from Yahoo Finance
+2025-03-26 15:24:08,615 - yfinance - ERROR - Failed to get ticker 'XLB' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:08,624 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:08,624 - yfinance - ERROR - ['XLB']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:08,625 - __main__ - WARNING - No data returned for Materials ETF (XLB) from Yahoo Finance
+2025-03-26 15:24:08,625 - __main__ - INFO - Fetching data for Industrial ETF (XLI) from Yahoo Finance
+2025-03-26 15:24:08,807 - yfinance - ERROR - Failed to get ticker 'XLI' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:08,811 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:08,811 - yfinance - ERROR - ['XLI']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:08,812 - __main__ - WARNING - No data returned for Industrial ETF (XLI) from Yahoo Finance
+2025-03-26 15:24:08,812 - __main__ - INFO - Fetching data for Consumer Staples ETF (XLP) from Yahoo Finance
+2025-03-26 15:24:08,935 - yfinance - ERROR - Failed to get ticker 'XLP' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:08,948 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:08,948 - yfinance - ERROR - ['XLP']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:08,948 - __main__ - WARNING - No data returned for Consumer Staples ETF (XLP) from Yahoo Finance
+2025-03-26 15:24:08,948 - __main__ - INFO - Fetching data for Real Estate ETF (XLRE) from Yahoo Finance
+2025-03-26 15:24:09,060 - yfinance - ERROR - Failed to get ticker 'XLRE' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:09,065 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:09,065 - yfinance - ERROR - ['XLRE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:09,065 - __main__ - WARNING - No data returned for Real Estate ETF (XLRE) from Yahoo Finance
+2025-03-26 15:24:09,065 - __main__ - INFO - Fetching data for Communication Services ETF (XLC) from Yahoo Finance
+2025-03-26 15:24:09,187 - yfinance - ERROR - Failed to get ticker 'XLC' reason: Expecting value: line 1 column 1 (char 0)
+2025-03-26 15:24:09,192 - yfinance - ERROR - 
+1 Failed download:
+2025-03-26 15:24:09,192 - yfinance - ERROR - ['XLC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-03-26 15:24:09,192 - __main__ - WARNING - No data returned for Communication Services ETF (XLC) from Yahoo Finance
+2025-03-26 15:24:09,192 - __main__ - WARNING - All data sources failed, using backup data for industry ETFs
+2025-03-26 15:24:09,192 - __main__ - INFO - Generating backup industry ETF data from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:09,193 - __main__ - INFO - Generating backup S&P 500 data from 2020-03-26 to 2025-03-26
+2025-03-26 15:24:09,995 - __main__ - INFO - Generated 1305 days of backup S&P 500 data
+2025-03-26 15:24:10,013 - __main__ - INFO - Backup S&P 500 data saved to /Users/jason/Desktop/SI 699 FP/data/raw/sp500_2020-03-26_2025-03-26_backup.csv
+2025-03-26 15:24:18,465 - __main__ - INFO - Generated data for 11 industry ETFs
+2025-03-26 15:24:18,465 - __main__ - INFO - Processing market data...
+2025-03-26 15:24:18,483 - __main__ - INFO - Processed market data saved to /Users/jason/Desktop/SI 699 FP/data/processed/market_returns_2025-03-26.csv
+2025-03-26 15:24:18,483 - __main__ - INFO - Market data collection and processing complete.
+2025-04-15 13:04:09,094 - __main__ - INFO - Starting market data collection...
+2025-04-15 13:04:09,095 - __main__ - INFO - Fetching S&P 500 data from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:09,095 - __main__ - INFO - Fetching S&P 500 data from Yahoo Finance from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:09,231 - yfinance - ERROR - Failed to get ticker 'SPY' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:09,239 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:09,239 - yfinance - ERROR - ['SPY']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:09,239 - __main__ - WARNING - Failed to get SPY data, trying ^GSPC directly
+2025-04-15 13:04:09,638 - yfinance - ERROR - Failed to get ticker '^GSPC' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:09,640 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:09,640 - yfinance - ERROR - ['^GSPC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:09,640 - __main__ - ERROR - Failed to retrieve S&P 500 data from Yahoo Finance
+2025-04-15 13:04:09,641 - __main__ - INFO - Fetching S&P 500 data from Alpha Vantage API from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:09,641 - __main__ - WARNING - No Alpha Vantage API key found in environment variables.
+2025-04-15 13:04:09,642 - __main__ - INFO - Fetching market data from Finnhub API from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:09,642 - __main__ - WARNING - No Finnhub API key found in environment variables.
+2025-04-15 13:04:09,642 - __main__ - WARNING - All data sources failed, using backup data for S&P 500
+2025-04-15 13:04:09,642 - __main__ - INFO - Generating backup S&P 500 data from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:10,709 - __main__ - INFO - Generated 1305 days of backup S&P 500 data
+2025-04-15 13:04:10,727 - __main__ - INFO - Backup S&P 500 data saved to /Users/jason/Desktop/SI 699 FP/data/raw/sp500_2020-04-15_2025-04-15_backup.csv
+2025-04-15 13:04:10,727 - __main__ - INFO - Fetching industry ETF data from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:10,727 - __main__ - INFO - Fetching market data from Finnhub API from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:10,727 - __main__ - WARNING - No Finnhub API key found in environment variables.
+2025-04-15 13:04:10,727 - __main__ - INFO - Fetching data for Technology ETF (XLK) from Yahoo Finance
+2025-04-15 13:04:10,862 - yfinance - ERROR - Failed to get ticker 'XLK' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:10,872 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:10,872 - yfinance - ERROR - ['XLK']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:10,872 - __main__ - WARNING - No data returned for Technology ETF (XLK) from Yahoo Finance
+2025-04-15 13:04:10,872 - __main__ - INFO - Fetching data for Healthcare ETF (XLV) from Yahoo Finance
+2025-04-15 13:04:10,941 - yfinance - ERROR - Failed to get ticker 'XLV' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:10,949 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:10,949 - yfinance - ERROR - ['XLV']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:10,949 - __main__ - WARNING - No data returned for Healthcare ETF (XLV) from Yahoo Finance
+2025-04-15 13:04:10,950 - __main__ - INFO - Fetching data for Financial ETF (XLF) from Yahoo Finance
+2025-04-15 13:04:11,156 - yfinance - ERROR - Failed to get ticker 'XLF' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:11,164 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:11,164 - yfinance - ERROR - ['XLF']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:11,164 - __main__ - WARNING - No data returned for Financial ETF (XLF) from Yahoo Finance
+2025-04-15 13:04:11,164 - __main__ - INFO - Fetching data for Energy ETF (XLE) from Yahoo Finance
+2025-04-15 13:04:11,220 - yfinance - ERROR - Failed to get ticker 'XLE' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:11,221 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:11,221 - yfinance - ERROR - ['XLE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:11,221 - __main__ - WARNING - No data returned for Energy ETF (XLE) from Yahoo Finance
+2025-04-15 13:04:11,221 - __main__ - INFO - Fetching data for Consumer Discretionary ETF (XLY) from Yahoo Finance
+2025-04-15 13:04:11,279 - yfinance - ERROR - Failed to get ticker 'XLY' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:11,285 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:11,286 - yfinance - ERROR - ['XLY']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:11,286 - __main__ - WARNING - No data returned for Consumer Discretionary ETF (XLY) from Yahoo Finance
+2025-04-15 13:04:11,286 - __main__ - INFO - Fetching data for Utilities ETF (XLU) from Yahoo Finance
+2025-04-15 13:04:11,339 - yfinance - ERROR - Failed to get ticker 'XLU' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:11,346 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:11,346 - yfinance - ERROR - ['XLU']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:11,347 - __main__ - WARNING - No data returned for Utilities ETF (XLU) from Yahoo Finance
+2025-04-15 13:04:11,347 - __main__ - INFO - Fetching data for Materials ETF (XLB) from Yahoo Finance
+2025-04-15 13:04:11,412 - yfinance - ERROR - Failed to get ticker 'XLB' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:11,425 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:11,425 - yfinance - ERROR - ['XLB']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:11,426 - __main__ - WARNING - No data returned for Materials ETF (XLB) from Yahoo Finance
+2025-04-15 13:04:11,426 - __main__ - INFO - Fetching data for Industrial ETF (XLI) from Yahoo Finance
+2025-04-15 13:04:11,563 - yfinance - ERROR - Failed to get ticker 'XLI' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:11,571 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:11,571 - yfinance - ERROR - ['XLI']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:11,572 - __main__ - WARNING - No data returned for Industrial ETF (XLI) from Yahoo Finance
+2025-04-15 13:04:11,572 - __main__ - INFO - Fetching data for Consumer Staples ETF (XLP) from Yahoo Finance
+2025-04-15 13:04:11,953 - yfinance - ERROR - Failed to get ticker 'XLP' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:11,959 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:11,959 - yfinance - ERROR - ['XLP']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:11,959 - __main__ - WARNING - No data returned for Consumer Staples ETF (XLP) from Yahoo Finance
+2025-04-15 13:04:11,959 - __main__ - INFO - Fetching data for Real Estate ETF (XLRE) from Yahoo Finance
+2025-04-15 13:04:12,029 - yfinance - ERROR - Failed to get ticker 'XLRE' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:12,032 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:12,033 - yfinance - ERROR - ['XLRE']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:12,033 - __main__ - WARNING - No data returned for Real Estate ETF (XLRE) from Yahoo Finance
+2025-04-15 13:04:12,033 - __main__ - INFO - Fetching data for Communication Services ETF (XLC) from Yahoo Finance
+2025-04-15 13:04:12,098 - yfinance - ERROR - Failed to get ticker 'XLC' reason: Expecting value: line 1 column 1 (char 0)
+2025-04-15 13:04:12,108 - yfinance - ERROR - 
+1 Failed download:
+2025-04-15 13:04:12,109 - yfinance - ERROR - ['XLC']: Exception('%ticker%: No timezone found, symbol may be delisted')
+2025-04-15 13:04:12,109 - __main__ - WARNING - No data returned for Communication Services ETF (XLC) from Yahoo Finance
+2025-04-15 13:04:12,109 - __main__ - WARNING - All data sources failed, using backup data for industry ETFs
+2025-04-15 13:04:12,109 - __main__ - INFO - Generating backup industry ETF data from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:12,109 - __main__ - INFO - Generating backup S&P 500 data from 2020-04-15 to 2025-04-15
+2025-04-15 13:04:13,179 - __main__ - INFO - Generated 1305 days of backup S&P 500 data
+2025-04-15 13:04:13,194 - __main__ - INFO - Backup S&P 500 data saved to /Users/jason/Desktop/SI 699 FP/data/raw/sp500_2020-04-15_2025-04-15_backup.csv
+2025-04-15 13:04:24,897 - __main__ - INFO - Generated data for 11 industry ETFs
+2025-04-15 13:04:24,898 - __main__ - INFO - Processing market data...
+2025-04-15 13:04:24,922 - __main__ - INFO - Processed market data saved to /Users/jason/Desktop/SI 699 FP/data/processed/market_returns_2025-04-15.csv
+2025-04-15 13:04:24,922 - __main__ - INFO - Market data collection and processing complete.

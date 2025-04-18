@@ -1,0 +1,80 @@
+2025-03-26 14:57:13,394 - __main__ - INFO - Starting Senate stock trading data collection...
+2025-03-26 14:57:13,394 - __main__ - INFO - Fetching Senate trading data...
+2025-03-26 14:57:13,892 - __main__ - ERROR - Failed to fetch data: HTTP 404
+2025-03-26 14:57:13,894 - __main__ - INFO - Fetching senator committee memberships...
+2025-03-26 14:57:13,896 - __main__ - INFO - Processing senator trading data...
+2025-03-26 14:57:13,897 - __main__ - WARNING - No transactions to process
+2025-03-26 14:57:13,897 - __main__ - INFO - Data collection and processing complete.
+2025-03-26 15:03:46,249 - __main__ - INFO - Starting Senate stock trading data collection...
+2025-03-26 15:03:46,249 - __main__ - INFO - Fetching Senate trading data...
+2025-03-26 15:03:47,861 - __main__ - INFO - Retrieved 8446 transactions
+2025-03-26 15:03:48,015 - __main__ - INFO - Fetching senator committee memberships...
+2025-03-26 15:03:48,534 - __main__ - INFO - Retrieved memberships for 0 committees
+2025-03-26 15:03:48,535 - __main__ - INFO - Processing senator trading data...
+2025-03-26 15:12:10,456 - __main__ - INFO - Starting Senate stock trading data collection...
+2025-03-26 15:12:10,457 - __main__ - INFO - Fetching Senate trading data...
+2025-03-26 15:12:12,070 - __main__ - INFO - Retrieved 8446 transactions
+2025-03-26 15:12:12,228 - __main__ - INFO - Fetching senator committee memberships...
+2025-03-26 15:12:12,600 - __main__ - WARNING - No committee tables found on Senate.gov
+2025-03-26 15:12:12,601 - __main__ - INFO - Fetching members for Banking, Housing, and Urban Affairs committee
+2025-03-26 15:12:13,021 - __main__ - INFO - Found 24 members for Banking, Housing, and Urban Affairs
+2025-03-26 15:12:13,021 - __main__ - INFO - Fetching members for Finance committee
+2025-03-26 15:12:13,356 - __main__ - INFO - Found 1 members for Finance
+2025-03-26 15:12:13,356 - __main__ - INFO - Fetching members for Armed Services committee
+2025-03-26 15:12:13,725 - __main__ - WARNING - Could not find members for Armed Services committee
+2025-03-26 15:12:13,725 - __main__ - INFO - Fetching members for Intelligence committee
+2025-03-26 15:12:15,067 - __main__ - INFO - Fetching members for Health, Education, Labor, and Pensions committee
+2025-03-26 15:12:15,660 - __main__ - WARNING - Could not find members for Health, Education, Labor, and Pensions committee
+2025-03-26 15:12:15,660 - __main__ - INFO - Fetching members for Energy and Natural Resources committee
+2025-03-26 15:12:15,921 - __main__ - WARNING - Could not find members for Energy and Natural Resources committee
+2025-03-26 15:12:15,922 - __main__ - INFO - Fetching members for Commerce, Science, and Transportation committee
+2025-03-26 15:12:16,209 - __main__ - WARNING - Could not find members for Commerce, Science, and Transportation committee
+2025-03-26 15:12:16,209 - __main__ - INFO - Fetching members for Agriculture, Nutrition, and Forestry committee
+2025-03-26 15:12:17,105 - __main__ - INFO - Retrieved memberships for 2 committees from committee pages
+2025-03-26 15:12:17,106 - __main__ - INFO - Processing senator trading data...
+2025-03-26 15:13:10,689 - __main__ - INFO - Starting Senate stock trading data collection...
+2025-03-26 15:13:10,689 - __main__ - INFO - Fetching Senate trading data...
+2025-03-26 15:13:11,850 - __main__ - INFO - Retrieved 8446 transactions
+2025-03-26 15:13:11,982 - __main__ - INFO - Fetching senator committee memberships...
+2025-03-26 15:13:12,448 - __main__ - WARNING - No committee tables found on Senate.gov
+2025-03-26 15:13:12,448 - __main__ - INFO - Fetching members for Banking, Housing, and Urban Affairs committee
+2025-03-26 15:13:12,606 - __main__ - INFO - Found 24 members for Banking, Housing, and Urban Affairs
+2025-03-26 15:13:12,607 - __main__ - INFO - Fetching members for Finance committee
+2025-03-26 15:13:12,790 - __main__ - INFO - Found 1 members for Finance
+2025-03-26 15:13:12,790 - __main__ - INFO - Fetching members for Armed Services committee
+2025-03-26 15:13:12,982 - __main__ - WARNING - Could not find members for Armed Services committee
+2025-03-26 15:13:12,982 - __main__ - INFO - Fetching members for Intelligence committee
+2025-03-26 15:13:18,998 - __main__ - INFO - Fetching members for Health, Education, Labor, and Pensions committee
+2025-03-26 15:13:19,221 - __main__ - WARNING - Could not find members for Health, Education, Labor, and Pensions committee
+2025-03-26 15:13:19,222 - __main__ - INFO - Fetching members for Energy and Natural Resources committee
+2025-03-26 15:13:19,401 - __main__ - WARNING - Could not find members for Energy and Natural Resources committee
+2025-03-26 15:13:19,401 - __main__ - INFO - Fetching members for Commerce, Science, and Transportation committee
+2025-03-26 15:13:19,571 - __main__ - WARNING - Could not find members for Commerce, Science, and Transportation committee
+2025-03-26 15:13:19,571 - __main__ - INFO - Fetching members for Agriculture, Nutrition, and Forestry committee
+2025-03-26 15:13:20,059 - __main__ - INFO - Retrieved memberships for 2 committees from committee pages
+2025-03-26 15:13:20,060 - __main__ - INFO - Processing senator trading data...
+2025-03-26 15:13:27,931 - __main__ - INFO - Processed data saved to /Users/jason/Desktop/SI 699 FP/data/processed/processed_trades_2025-03-26.csv
+2025-03-26 15:13:27,932 - __main__ - INFO - Data collection and processing complete.
+2025-04-15 13:03:42,954 - __main__ - INFO - Starting Senate stock trading data collection...
+2025-04-15 13:03:42,955 - __main__ - INFO - Fetching Senate trading data...
+2025-04-15 13:03:45,225 - __main__ - INFO - Retrieved 8446 transactions
+2025-04-15 13:03:45,430 - __main__ - INFO - Fetching senator committee memberships...
+2025-04-15 13:03:46,101 - __main__ - WARNING - No committee tables found on Senate.gov
+2025-04-15 13:03:46,101 - __main__ - INFO - Fetching members for Banking, Housing, and Urban Affairs committee
+2025-04-15 13:03:46,247 - __main__ - INFO - Found 24 members for Banking, Housing, and Urban Affairs
+2025-04-15 13:03:46,248 - __main__ - INFO - Fetching members for Finance committee
+2025-04-15 13:03:46,539 - __main__ - INFO - Found 1 members for Finance
+2025-04-15 13:03:46,540 - __main__ - INFO - Fetching members for Armed Services committee
+2025-04-15 13:03:46,774 - __main__ - WARNING - Could not find members for Armed Services committee
+2025-04-15 13:03:46,774 - __main__ - INFO - Fetching members for Intelligence committee
+2025-04-15 13:03:55,834 - __main__ - INFO - Fetching members for Health, Education, Labor, and Pensions committee
+2025-04-15 13:03:56,072 - __main__ - WARNING - Could not find members for Health, Education, Labor, and Pensions committee
+2025-04-15 13:03:56,072 - __main__ - INFO - Fetching members for Energy and Natural Resources committee
+2025-04-15 13:03:56,408 - __main__ - WARNING - Could not find members for Energy and Natural Resources committee
+2025-04-15 13:03:56,408 - __main__ - INFO - Fetching members for Commerce, Science, and Transportation committee
+2025-04-15 13:03:56,687 - __main__ - WARNING - Could not find members for Commerce, Science, and Transportation committee
+2025-04-15 13:03:56,687 - __main__ - INFO - Fetching members for Agriculture, Nutrition, and Forestry committee
+2025-04-15 13:03:57,235 - __main__ - INFO - Retrieved memberships for 2 committees from committee pages
+2025-04-15 13:03:57,236 - __main__ - INFO - Processing senator trading data...
+2025-04-15 13:04:07,948 - __main__ - INFO - Processed data saved to /Users/jason/Desktop/SI 699 FP/data/processed/processed_trades_2025-04-15.csv
+2025-04-15 13:04:07,949 - __main__ - INFO - Data collection and processing complete.
